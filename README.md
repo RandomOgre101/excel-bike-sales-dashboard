@@ -1,7 +1,8 @@
 # Bike Sales Dashboard
 
-A bike sales dashboard, done with a cleaned and processed dataset
+A bike sales dashboard, done in Microsoft Excel
 
-Marital status, Education & Region slicers
+- Cleaned and Processed Dataset
+- Marital status, Education & Region slicers
 
 ![Dashboard Screenshot](img.jpg)
